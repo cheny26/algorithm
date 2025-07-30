@@ -11,10 +11,8 @@ import java.util.Scanner;
  */
 public class test {
     public static void main(String[] args) {
-        String[] s={"/c/d","/c/d/e","/c/f","/a","/a/b","/c"};
-        Arrays.sort(s);
-        StringBuilder sb=new StringBuilder(111);
-        sb.append("->");
-        System.out.println(10>>1);
+        System.out.println(9|5|0|10);
+        System.out.println(9|5|0|10^9);
+        System.out.println(  15 ^ 9);
     }
 }
