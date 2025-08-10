@@ -1,3 +1,5 @@
+package LeetCode;
+
 /**
  * @author chen_y
  * @date 2025-08-09 10:13
